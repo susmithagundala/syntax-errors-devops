@@ -1,5 +1,3 @@
-# syntax-errors-devops
-
 # Team DevOps Tasks
 This repository is used by the team to maintain and submit screenshots of completed DevOps tasks.
 
